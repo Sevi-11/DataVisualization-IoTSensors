@@ -1,0 +1,201 @@
+Device_ID,Device_Type,Location,Status,Temperature_C,Humidity_%,Light_Lux,Motion_Count,Battery_Level_%,Timestamp
+D001,Light Sensor,Floor 1,Active,26.6,40.6,618.7,23,72.6,2025-09-01 00:00:00
+D002,Motion Sensor,Basement,Active,32.0,35.3,646.0,18,14.4,2025-09-01 01:00:00
+D003,Temperature Sensor,Lobby,Alert,23.4,37.2,481.7,7,57.9,2025-09-01 02:00:00
+D004,Light Sensor,Basement,Maintenance,33.2,57.6,762.8,30,96.6,2025-09-01 03:00:00
+D005,Light Sensor,Lobby,Alert,24.6,42.4,940.9,20,19.9,2025-09-01 04:00:00
+D006,Motion Sensor,Lobby,Active,18.2,51.9,933.0,16,90.5,2025-09-01 05:00:00
+D007,Temperature Sensor,Floor 3,Maintenance,33.4,60.2,505.8,22,99.2,2025-09-01 06:00:00
+D008,Temperature Sensor,Lobby,Alert,19.6,71.4,201.9,36,15.5,2025-09-01 07:00:00
+D009,Light Sensor,Basement,Maintenance,23.4,32.4,986.4,15,89.5,2025-09-01 08:00:00
+D010,Humidity Sensor,Lobby,Alert,34.2,78.0,855.0,5,56.4,2025-09-01 09:00:00
+D011,Light Sensor,Floor 3,Maintenance,34.2,67.7,212.2,7,91.6,2025-09-01 10:00:00
+D012,Light Sensor,Floor 3,Active,27.7,34.9,928.8,24,61.4,2025-09-01 11:00:00
+D013,Light Sensor,Basement,Active,28.7,82.4,882.9,17,69.6,2025-09-01 12:00:00
+D014,Light Sensor,Floor 2,Maintenance,25.6,85.3,567.0,24,58.9,2025-09-01 13:00:00
+D015,Motion Sensor,Floor 2,Alert,23.0,33.7,632.1,11,87.8,2025-09-01 14:00:00
+D016,Temperature Sensor,Lobby,Active,23.6,46.6,459.1,14,76.1,2025-09-01 15:00:00
+D017,Motion Sensor,Floor 1,Active,29.4,78.4,149.3,25,56.9,2025-09-01 16:00:00
+D018,Motion Sensor,Lobby,Active,30.8,74.9,401.7,40,88.1,2025-09-01 17:00:00
+D019,Motion Sensor,Basement,Maintenance,31.5,41.1,822.6,44,32.1,2025-09-01 18:00:00
+D020,Light Sensor,Basement,Maintenance,31.4,42.6,104.2,25,24.2,2025-09-01 19:00:00
+D021,Humidity Sensor,Basement,Alert,19.6,52.2,400.1,46,24.4,2025-09-01 20:00:00
+D022,Temperature Sensor,Basement,Alert,26.4,59.1,458.4,31,40.1,2025-09-01 21:00:00
+D023,Humidity Sensor,Basement,Alert,19.0,67.1,583.7,9,31.5,2025-09-01 22:00:00
+D024,Motion Sensor,Floor 3,Maintenance,27.3,52.1,927.9,15,93.7,2025-09-01 23:00:00
+D025,Motion Sensor,Floor 2,Maintenance,25.5,57.8,411.7,6,19.5,2025-09-02 00:00:00
+D026,Humidity Sensor,Basement,Alert,33.1,74.8,412.3,16,72.9,2025-09-02 01:00:00
+D027,Humidity Sensor,Floor 1,Alert,24.0,32.2,763.8,22,27.0,2025-09-02 02:00:00
+D028,Humidity Sensor,Floor 1,Maintenance,20.0,45.1,507.0,25,89.3,2025-09-02 03:00:00
+D029,Motion Sensor,Floor 1,Alert,20.4,72.8,302.1,20,96.5,2025-09-02 04:00:00
+D030,Motion Sensor,Floor 1,Active,30.9,83.7,507.2,21,51.9,2025-09-02 05:00:00
+D031,Temperature Sensor,Floor 3,Maintenance,28.5,60.7,226.8,6,89.1,2025-09-02 06:00:00
+D032,Temperature Sensor,Floor 1,Alert,19.7,61.9,258.7,13,10.5,2025-09-02 07:00:00
+D033,Motion Sensor,Basement,Maintenance,19.4,36.4,548.5,14,83.8,2025-09-02 08:00:00
+D034,Humidity Sensor,Lobby,Active,29.9,56.8,477.0,6,30.6,2025-09-02 09:00:00
+D035,Humidity Sensor,Floor 1,Maintenance,19.2,62.0,923.4,8,91.8,2025-09-02 10:00:00
+D036,Temperature Sensor,Floor 3,Maintenance,32.0,44.5,426.2,47,10.1,2025-09-02 11:00:00
+D037,Motion Sensor,Floor 3,Maintenance,30.0,46.2,622.5,7,60.1,2025-09-02 12:00:00
+D038,Temperature Sensor,Floor 1,Maintenance,19.4,52.6,669.0,49,78.1,2025-09-02 13:00:00
+D039,Temperature Sensor,Lobby,Active,19.4,31.2,111.8,22,33.3,2025-09-02 14:00:00
+D040,Light Sensor,Floor 1,Maintenance,34.8,49.3,697.2,28,27.4,2025-09-02 15:00:00
+D041,Light Sensor,Floor 3,Maintenance,24.4,42.7,260.2,17,17.6,2025-09-02 16:00:00
+D042,Light Sensor,Floor 2,Alert,24.3,49.6,965.0,30,39.4,2025-09-02 17:00:00
+D043,Humidity Sensor,Basement,Maintenance,31.8,37.2,233.8,29,60.4,2025-09-02 18:00:00
+D044,Motion Sensor,Floor 3,Alert,34.1,83.4,473.2,38,20.4,2025-09-02 19:00:00
+D045,Motion Sensor,Floor 1,Active,34.8,65.6,176.8,34,43.9,2025-09-02 20:00:00
+D046,Motion Sensor,Basement,Active,30.8,70.7,997.2,17,10.8,2025-09-02 21:00:00
+D047,Motion Sensor,Floor 1,Active,24.4,77.4,552.0,41,83.7,2025-09-02 22:00:00
+D048,Light Sensor,Floor 1,Active,19.4,59.9,635.8,38,21.6,2025-09-02 23:00:00
+D049,Humidity Sensor,Floor 2,Alert,31.2,35.2,160.4,16,35.5,2025-09-03 00:00:00
+D050,Humidity Sensor,Basement,Maintenance,27.5,62.2,775.0,13,11.7,2025-09-03 01:00:00
+D051,Light Sensor,Basement,Active,25.2,65.2,288.9,30,48.9,2025-09-03 02:00:00
+D052,Humidity Sensor,Floor 2,Maintenance,33.4,74.7,908.2,23,85.6,2025-09-03 03:00:00
+D053,Light Sensor,Floor 3,Alert,19.9,55.9,284.6,34,45.3,2025-09-03 04:00:00
+D054,Motion Sensor,Floor 1,Alert,26.4,37.7,271.6,43,26.2,2025-09-03 05:00:00
+D055,Light Sensor,Lobby,Alert,18.2,47.0,132.9,44,77.8,2025-09-03 06:00:00
+D056,Motion Sensor,Floor 1,Active,26.0,51.8,524.9,33,81.0,2025-09-03 07:00:00
+D057,Motion Sensor,Floor 1,Maintenance,19.0,68.8,608.4,2,25.6,2025-09-03 08:00:00
+D058,Temperature Sensor,Floor 3,Maintenance,20.0,64.2,159.1,36,79.4,2025-09-03 09:00:00
+D059,Light Sensor,Floor 1,Maintenance,20.0,51.4,798.0,42,95.3,2025-09-03 10:00:00
+D060,Temperature Sensor,Floor 2,Alert,29.0,89.2,508.0,39,25.0,2025-09-03 11:00:00
+D061,Light Sensor,Floor 2,Active,30.7,66.3,572.0,25,79.4,2025-09-03 12:00:00
+D062,Light Sensor,Basement,Alert,27.9,44.2,496.7,22,73.8,2025-09-03 13:00:00
+D063,Temperature Sensor,Lobby,Alert,34.4,36.1,460.7,43,52.6,2025-09-03 14:00:00
+D064,Temperature Sensor,Floor 1,Maintenance,24.4,39.2,603.7,38,15.2,2025-09-03 15:00:00
+D065,Light Sensor,Floor 1,Alert,22.9,44.8,239.7,14,16.7,2025-09-03 16:00:00
+D066,Humidity Sensor,Floor 3,Maintenance,32.8,39.6,263.7,48,86.7,2025-09-03 17:00:00
+D067,Motion Sensor,Floor 2,Active,21.8,41.2,875.6,3,99.1,2025-09-03 18:00:00
+D068,Temperature Sensor,Lobby,Maintenance,34.4,47.1,951.5,28,70.8,2025-09-03 19:00:00
+D069,Motion Sensor,Basement,Active,18.2,40.4,436.0,21,50.1,2025-09-03 20:00:00
+D070,Humidity Sensor,Floor 2,Maintenance,34.5,83.8,343.7,24,68.3,2025-09-03 21:00:00
+D071,Humidity Sensor,Basement,Alert,18.7,34.8,679.6,12,63.5,2025-09-03 22:00:00
+D072,Humidity Sensor,Floor 3,Alert,33.1,61.5,467.9,17,44.5,2025-09-03 23:00:00
+D073,Temperature Sensor,Floor 3,Active,27.0,54.6,122.8,32,15.9,2025-09-04 00:00:00
+D074,Humidity Sensor,Floor 1,Active,34.9,88.9,240.5,15,83.9,2025-09-04 01:00:00
+D075,Temperature Sensor,Lobby,Active,19.3,36.7,744.4,44,43.5,2025-09-04 02:00:00
+D076,Humidity Sensor,Basement,Maintenance,27.4,53.9,693.0,41,83.7,2025-09-04 03:00:00
+D077,Motion Sensor,Floor 2,Maintenance,34.5,88.2,124.4,43,32.7,2025-09-04 04:00:00
+D078,Motion Sensor,Floor 3,Active,26.9,81.9,299.8,1,10.1,2025-09-04 05:00:00
+D079,Light Sensor,Floor 1,Alert,28.7,79.0,308.0,34,24.3,2025-09-04 06:00:00
+D080,Motion Sensor,Floor 1,Maintenance,29.8,45.5,704.7,41,52.2,2025-09-04 07:00:00
+D081,Light Sensor,Basement,Maintenance,25.7,40.3,117.7,33,95.0,2025-09-04 08:00:00
+D082,Motion Sensor,Floor 3,Maintenance,28.7,70.1,193.7,29,19.2,2025-09-04 09:00:00
+D083,Temperature Sensor,Lobby,Active,27.9,85.8,819.9,12,86.9,2025-09-04 10:00:00
+D084,Motion Sensor,Floor 3,Active,33.3,63.4,260.7,12,57.4,2025-09-04 11:00:00
+D085,Light Sensor,Basement,Active,18.8,64.3,687.5,17,84.3,2025-09-04 12:00:00
+D086,Light Sensor,Basement,Active,22.8,46.8,314.4,31,36.9,2025-09-04 13:00:00
+D087,Humidity Sensor,Floor 3,Active,34.2,76.2,189.5,31,85.6,2025-09-04 14:00:00
+D088,Temperature Sensor,Basement,Alert,33.1,41.2,318.9,34,79.6,2025-09-04 15:00:00
+D089,Motion Sensor,Floor 3,Alert,25.7,49.4,750.0,38,30.7,2025-09-04 16:00:00
+D090,Humidity Sensor,Floor 2,Active,28.5,55.5,870.1,45,21.8,2025-09-04 17:00:00
+D091,Motion Sensor,Floor 3,Maintenance,22.7,60.5,847.2,28,88.1,2025-09-04 18:00:00
+D092,Motion Sensor,Floor 3,Active,21.2,44.5,457.5,48,96.7,2025-09-04 19:00:00
+D093,Humidity Sensor,Basement,Alert,25.9,36.9,701.3,28,12.8,2025-09-04 20:00:00
+D094,Humidity Sensor,Basement,Alert,24.0,66.6,284.5,43,75.8,2025-09-04 21:00:00
+D095,Humidity Sensor,Floor 1,Maintenance,27.9,47.3,363.8,15,91.9,2025-09-04 22:00:00
+D096,Humidity Sensor,Floor 1,Alert,19.3,64.9,906.7,43,87.2,2025-09-04 23:00:00
+D097,Humidity Sensor,Floor 2,Active,34.6,39.3,111.7,46,96.8,2025-09-05 00:00:00
+D098,Motion Sensor,Floor 1,Maintenance,34.8,58.9,177.0,9,78.4,2025-09-05 01:00:00
+D099,Humidity Sensor,Floor 3,Active,29.9,62.0,287.1,29,49.8,2025-09-05 02:00:00
+D100,Temperature Sensor,Basement,Active,27.1,33.1,123.9,24,38.1,2025-09-05 03:00:00
+D101,Light Sensor,Floor 1,Maintenance,23.3,50.2,263.3,38,38.9,2025-09-05 04:00:00
+D102,Humidity Sensor,Floor 1,Active,31.8,38.1,624.7,19,75.2,2025-09-05 05:00:00
+D103,Humidity Sensor,Floor 2,Alert,29.6,33.8,479.3,4,77.1,2025-09-05 06:00:00
+D104,Motion Sensor,Floor 2,Active,20.8,89.4,903.4,0,28.0,2025-09-05 07:00:00
+D105,Humidity Sensor,Floor 3,Maintenance,33.5,49.3,835.7,29,88.1,2025-09-05 08:00:00
+D106,Humidity Sensor,Basement,Maintenance,32.0,78.6,407.6,48,74.3,2025-09-05 09:00:00
+D107,Humidity Sensor,Floor 2,Maintenance,34.1,45.3,333.5,2,60.6,2025-09-05 10:00:00
+D108,Motion Sensor,Floor 1,Active,30.3,70.9,441.7,44,52.4,2025-09-05 11:00:00
+D109,Humidity Sensor,Basement,Maintenance,28.4,75.6,631.3,13,58.9,2025-09-05 12:00:00
+D110,Light Sensor,Basement,Maintenance,25.1,65.7,341.3,29,24.3,2025-09-05 13:00:00
+D111,Motion Sensor,Floor 1,Active,33.9,58.3,661.7,49,28.3,2025-09-05 14:00:00
+D112,Light Sensor,Floor 2,Alert,32.7,54.7,468.5,3,18.2,2025-09-05 15:00:00
+D113,Motion Sensor,Floor 1,Active,18.8,50.9,596.8,17,23.8,2025-09-05 16:00:00
+D114,Humidity Sensor,Basement,Maintenance,18.4,85.8,492.5,36,50.8,2025-09-05 17:00:00
+D115,Light Sensor,Lobby,Maintenance,24.4,79.8,365.0,24,57.7,2025-09-05 18:00:00
+D116,Motion Sensor,Lobby,Active,31.8,87.9,953.6,47,11.6,2025-09-05 19:00:00
+D117,Temperature Sensor,Floor 3,Alert,34.8,37.5,787.2,0,81.7,2025-09-05 20:00:00
+D118,Humidity Sensor,Floor 1,Maintenance,20.6,73.9,226.1,45,36.5,2025-09-05 21:00:00
+D119,Motion Sensor,Floor 1,Maintenance,28.1,86.3,881.6,14,92.1,2025-09-05 22:00:00
+D120,Temperature Sensor,Floor 3,Maintenance,24.5,40.9,538.7,8,97.1,2025-09-05 23:00:00
+D121,Motion Sensor,Floor 3,Active,34.5,34.0,905.1,14,26.7,2025-09-06 00:00:00
+D122,Temperature Sensor,Floor 3,Maintenance,32.3,74.5,819.9,48,51.6,2025-09-06 01:00:00
+D123,Humidity Sensor,Basement,Alert,32.3,64.5,482.7,23,10.1,2025-09-06 02:00:00
+D124,Light Sensor,Floor 1,Maintenance,26.0,80.5,120.2,3,63.8,2025-09-06 03:00:00
+D125,Temperature Sensor,Basement,Maintenance,25.1,38.4,341.8,11,64.7,2025-09-06 04:00:00
+D126,Motion Sensor,Floor 3,Alert,22.6,77.7,587.5,36,32.3,2025-09-06 05:00:00
+D127,Humidity Sensor,Floor 1,Maintenance,19.0,42.1,670.1,36,60.3,2025-09-06 06:00:00
+D128,Temperature Sensor,Basement,Active,32.7,39.8,332.1,42,30.3,2025-09-06 07:00:00
+D129,Motion Sensor,Basement,Active,31.8,39.9,225.4,5,24.5,2025-09-06 08:00:00
+D130,Motion Sensor,Floor 3,Active,35.0,78.9,851.4,38,68.6,2025-09-06 09:00:00
+D131,Motion Sensor,Floor 1,Alert,34.9,69.9,986.0,45,39.3,2025-09-06 10:00:00
+D132,Temperature Sensor,Floor 3,Maintenance,27.4,61.4,573.1,23,63.1,2025-09-06 11:00:00
+D133,Temperature Sensor,Floor 1,Active,31.1,51.5,254.5,10,49.0,2025-09-06 12:00:00
+D134,Temperature Sensor,Lobby,Alert,34.1,82.6,345.1,12,98.6,2025-09-06 13:00:00
+D135,Light Sensor,Floor 2,Maintenance,32.4,53.5,116.6,33,23.5,2025-09-06 14:00:00
+D136,Temperature Sensor,Floor 2,Alert,22.2,79.0,922.9,24,51.8,2025-09-06 15:00:00
+D137,Temperature Sensor,Floor 2,Active,25.7,56.3,206.0,6,71.2,2025-09-06 16:00:00
+D138,Temperature Sensor,Floor 3,Active,20.2,52.6,618.9,3,45.6,2025-09-06 17:00:00
+D139,Light Sensor,Lobby,Active,34.2,57.8,346.6,7,97.7,2025-09-06 18:00:00
+D140,Temperature Sensor,Floor 1,Alert,28.3,48.1,598.8,19,75.0,2025-09-06 19:00:00
+D141,Motion Sensor,Basement,Alert,21.9,74.9,686.3,28,69.1,2025-09-06 20:00:00
+D142,Temperature Sensor,Floor 1,Active,29.4,60.2,846.8,44,78.1,2025-09-06 21:00:00
+D143,Motion Sensor,Basement,Alert,28.5,43.9,285.8,45,95.7,2025-09-06 22:00:00
+D144,Motion Sensor,Floor 1,Active,24.1,84.0,109.9,9,91.7,2025-09-06 23:00:00
+D145,Motion Sensor,Lobby,Active,19.9,53.0,223.2,42,75.2,2025-09-07 00:00:00
+D146,Light Sensor,Basement,Maintenance,29.4,62.6,910.0,33,77.4,2025-09-07 01:00:00
+D147,Light Sensor,Floor 3,Alert,26.8,84.4,886.5,25,23.1,2025-09-07 02:00:00
+D148,Light Sensor,Floor 1,Active,31.1,67.5,637.7,40,19.3,2025-09-07 03:00:00
+D149,Temperature Sensor,Floor 1,Active,26.8,37.0,640.5,48,61.4,2025-09-07 04:00:00
+D150,Motion Sensor,Basement,Alert,32.5,86.4,698.5,2,11.7,2025-09-07 05:00:00
+D151,Light Sensor,Floor 3,Maintenance,27.4,67.7,257.8,5,53.4,2025-09-07 06:00:00
+D152,Light Sensor,Floor 3,Maintenance,27.5,50.1,923.0,4,28.9,2025-09-07 07:00:00
+D153,Temperature Sensor,Lobby,Active,32.9,38.4,476.9,4,41.1,2025-09-07 08:00:00
+D154,Light Sensor,Floor 3,Alert,24.9,77.6,444.8,46,79.8,2025-09-07 09:00:00
+D155,Temperature Sensor,Floor 3,Maintenance,20.3,67.2,567.0,22,94.7,2025-09-07 10:00:00
+D156,Humidity Sensor,Floor 3,Alert,18.5,62.0,142.3,48,16.5,2025-09-07 11:00:00
+D157,Light Sensor,Floor 2,Alert,30.8,83.6,249.7,8,58.1,2025-09-07 12:00:00
+D158,Humidity Sensor,Lobby,Active,28.5,77.3,764.2,34,89.4,2025-09-07 13:00:00
+D159,Temperature Sensor,Floor 1,Maintenance,30.0,39.1,174.5,19,17.4,2025-09-07 14:00:00
+D160,Motion Sensor,Basement,Active,21.6,48.7,642.8,48,84.2,2025-09-07 15:00:00
+D161,Light Sensor,Floor 1,Maintenance,20.3,44.9,320.8,41,42.2,2025-09-07 16:00:00
+D162,Temperature Sensor,Lobby,Maintenance,18.2,74.6,450.4,34,39.0,2025-09-07 17:00:00
+D163,Motion Sensor,Basement,Maintenance,24.0,32.0,359.8,49,98.0,2025-09-07 18:00:00
+D164,Motion Sensor,Lobby,Maintenance,28.0,64.2,420.1,17,28.1,2025-09-07 19:00:00
+D165,Humidity Sensor,Floor 3,Maintenance,24.7,75.7,747.1,16,72.4,2025-09-07 20:00:00
+D166,Temperature Sensor,Basement,Alert,25.4,82.6,367.4,23,83.9,2025-09-07 21:00:00
+D167,Motion Sensor,Floor 3,Active,33.4,50.5,609.8,2,13.7,2025-09-07 22:00:00
+D168,Light Sensor,Floor 1,Alert,23.9,79.3,528.4,31,70.3,2025-09-07 23:00:00
+D169,Light Sensor,Floor 1,Maintenance,26.7,36.6,697.3,34,95.6,2025-09-08 00:00:00
+D170,Humidity Sensor,Basement,Active,31.3,80.8,943.1,37,21.2,2025-09-08 01:00:00
+D171,Motion Sensor,Basement,Maintenance,24.7,37.6,759.3,12,90.7,2025-09-08 02:00:00
+D172,Temperature Sensor,Lobby,Active,28.6,53.8,293.4,46,63.5,2025-09-08 03:00:00
+D173,Light Sensor,Lobby,Alert,32.7,77.8,128.1,24,65.5,2025-09-08 04:00:00
+D174,Motion Sensor,Floor 3,Active,34.1,39.0,336.0,8,65.2,2025-09-08 05:00:00
+D175,Motion Sensor,Basement,Active,20.5,43.8,635.6,3,36.9,2025-09-08 06:00:00
+D176,Humidity Sensor,Floor 1,Active,33.8,73.3,146.3,13,94.2,2025-09-08 07:00:00
+D177,Light Sensor,Lobby,Active,26.4,73.2,546.7,36,95.3,2025-09-08 08:00:00
+D178,Light Sensor,Lobby,Active,22.4,68.5,637.2,33,66.3,2025-09-08 09:00:00
+D179,Temperature Sensor,Floor 1,Maintenance,25.8,71.6,400.8,10,80.5,2025-09-08 10:00:00
+D180,Light Sensor,Lobby,Active,34.7,62.6,793.8,40,65.1,2025-09-08 11:00:00
+D181,Temperature Sensor,Floor 3,Active,26.4,45.1,195.9,2,53.6,2025-09-08 12:00:00
+D182,Light Sensor,Basement,Alert,23.6,50.7,167.6,27,69.5,2025-09-08 13:00:00
+D183,Humidity Sensor,Floor 1,Active,28.8,40.9,755.4,28,59.8,2025-09-08 14:00:00
+D184,Light Sensor,Basement,Alert,22.1,84.5,545.9,8,63.8,2025-09-08 15:00:00
+D185,Temperature Sensor,Lobby,Maintenance,19.3,65.0,719.6,2,80.5,2025-09-08 16:00:00
+D186,Temperature Sensor,Lobby,Active,20.2,54.1,491.3,24,53.3,2025-09-08 17:00:00
+D187,Humidity Sensor,Floor 1,Alert,20.2,57.7,321.8,33,13.7,2025-09-08 18:00:00
+D188,Light Sensor,Floor 3,Alert,20.6,86.8,837.2,11,24.8,2025-09-08 19:00:00
+D189,Light Sensor,Floor 2,Maintenance,20.4,39.2,819.5,41,49.5,2025-09-08 20:00:00
+D190,Humidity Sensor,Floor 1,Active,28.9,65.2,725.2,8,75.2,2025-09-08 21:00:00
+D191,Light Sensor,Floor 2,Active,21.1,60.4,344.9,14,63.4,2025-09-08 22:00:00
+D192,Light Sensor,Floor 2,Alert,23.9,66.7,631.2,39,68.5,2025-09-08 23:00:00
+D193,Temperature Sensor,Floor 3,Active,33.2,31.1,424.9,24,53.1,2025-09-09 00:00:00
+D194,Light Sensor,Floor 2,Alert,26.1,82.3,182.4,4,65.4,2025-09-09 01:00:00
+D195,Light Sensor,Floor 2,Active,29.3,85.9,925.6,10,39.6,2025-09-09 02:00:00
+D196,Humidity Sensor,Floor 3,Alert,20.9,63.9,223.1,33,52.3,2025-09-09 03:00:00
+D197,Humidity Sensor,Floor 2,Active,21.3,71.8,955.2,23,77.0,2025-09-09 04:00:00
+D198,Motion Sensor,Floor 2,Maintenance,18.7,85.3,501.4,14,88.5,2025-09-09 05:00:00
+D199,Temperature Sensor,Floor 2,Active,20.9,72.4,266.6,37,49.0,2025-09-09 06:00:00
+D200,Light Sensor,Floor 1,Active,22.7,39.2,587.7,7,13.9,2025-09-09 07:00:00
